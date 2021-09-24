@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @mattverach
-- 🌱 I’m currently learning Java
-- 📫 Reach me on Twitter @mattverach
+- 🌱 I’m currently learning Java and Javascript
+- 📫 Reach me on my Email: matias_vera@outlook.com
