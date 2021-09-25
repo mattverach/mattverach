@@ -18,6 +18,7 @@
   <img alt="CSS3" width="30px" src="https://www.logolynx.com/images/logolynx/s_0d/0d35ef6c8d4fdaf0590228404dc6448b.png">                                                   <img alt="Javascript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png">
   <img alt="Boostrap" width="30px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg">
   </br>
+  </br>
    <img alt="Photoshop" width="30px" src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo.png">
    <img alt="Premiere Pro" width="30px" src="https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-5.png">
    <img alt="After Effects" width="30px" src="https://logodownload.org/wp-content/uploads/2017/04/adobe-after-effects-logo-8.png">
