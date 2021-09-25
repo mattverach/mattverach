@@ -2,7 +2,6 @@
 <h3 align="center">Studying to become a Full-Stack Developer.</h3>
 
 - 🌱 I’m currently learning **Java and Javascript.**
-
 - 📫 Email me at: **Matias_vera@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -11,6 +10,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 <div align="left"> 
   <img alt="Visual Studio Code" width="30px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
   <img alt="GitHub" width="30px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg">                                
@@ -22,5 +22,4 @@
    <img alt="Photoshop" width="35px" src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo.png">
    <img alt="Premiere Pro" width="35px" src="https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-5.png">
    <img alt="After Effects" width="35px" src="https://logodownload.org/wp-content/uploads/2017/04/adobe-after-effects-logo-8.png">
-  
 </div>
