@@ -11,4 +11,15 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p> 
+<div align="left"> 
+  <img alt="Visual Studio Code" width="30px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg">
+  <img alt="GitHub" width="30px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg">                                
+  <img alt="HTML5" width="30px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
+  <img alt="CSS3" width="30px" src="https://www.logolynx.com/images/logolynx/s_0d/0d35ef6c8d4fdaf0590228404dc6448b.png">                                                   <img alt="Javascript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png">
+  <img alt="Boostrap" width="30px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg">
+  </br>
+   <img alt="Photoshop" width="30px" src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo.png">
+   <img alt="Premiere Pro" width="30px" src="https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-5.png">
+   <img alt="After Effects" width="30px" src="https://logodownload.org/wp-content/uploads/2017/04/adobe-after-effects-logo-8.png">
+  
+</div>
