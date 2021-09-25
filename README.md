@@ -19,8 +19,8 @@
   <img alt="Boostrap" width="30px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg">
   </br>
   </br>
-   <img alt="Photoshop" width="40px" src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo.png">
-   <img alt="Premiere Pro" width="40px" src="https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-5.png">
-   <img alt="After Effects" width="40px" src="https://logodownload.org/wp-content/uploads/2017/04/adobe-after-effects-logo-8.png">
+   <img alt="Photoshop" width="35px" src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo.png">
+   <img alt="Premiere Pro" width="35px" src="https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-5.png">
+   <img alt="After Effects" width="35px" src="https://logodownload.org/wp-content/uploads/2017/04/adobe-after-effects-logo-8.png">
   
 </div>
