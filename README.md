@@ -17,7 +17,7 @@
   <img alt="HTML5" width="30px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
   <img alt="CSS3" width="30px" src="https://www.logolynx.com/images/logolynx/s_0d/0d35ef6c8d4fdaf0590228404dc6448b.png">                                                   <img alt="Javascript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png">
   <img alt="Boostrap" width="30px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg">
-  <img alt="Boostrap" width="30px" src="![imagen](https://user-images.githubusercontent.com/85206468/134753614-2f4beeb1-1472-412a-8ad9-ab97de15e30c.png)">
+  <img alt="Boostrap" width="30px" src="https://cpng.pikpng.com/pngl/s/484-4842935_java-square-java-7-clipart.png">
   </br>
   </br>
    <img alt="Photoshop" width="35px" src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo.png">
