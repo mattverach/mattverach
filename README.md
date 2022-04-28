@@ -1,5 +1,5 @@
 <h1 align="center">Matías Vera</h1>
-<h3 align="center">Studying to become a Full-Stack Developer.</h3>
+<h3 align="center">Full-Stack Developer</h3>
 
 - 🌱 I’m currently learning **Spring Security.**
 - 📫 Email me at: **Matias_vera@outlook.com**
