@@ -1,7 +1,7 @@
 <h1 align="center">Matías Vera</h1>
 <h3 align="center">Full-Stack Developer</h3>
 
-- 🌱 I’m currently learning **Spring Security.**
+- 🌱 I’m currently learning **Spring Security** and **React.**
 - 📫 Email me at: **Matias_vera@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
