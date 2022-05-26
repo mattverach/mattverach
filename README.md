@@ -15,7 +15,7 @@
                              <img alt="HTML5" width="30px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
   <img alt="CSS3" width="30px" src="https://www.logolynx.com/images/logolynx/s_0d/0d35ef6c8d4fdaf0590228404dc6448b.png">                                                   <img alt="Javascript" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png">
   <img alt="Boostrap" width="30px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg">
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="30px"/> </a> 
+  <a href="https://es.reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/react-icon/react-icon-29.jpg0" alt="react" width="30px"/> </a> 
   <img alt="Java" width="30px" src="https://tecnologiaenvivo.com/wp-content/uploads/2015/04/JAVA-ICON-300x300.png">
  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="30px"/> </a> 
    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30px"/> </a>
